@@ -300,7 +300,7 @@ const greeting = getGreeting()
                     backgroundClip: "text",
                   }}
                 >
-                   LumAIrya.
+                   AIris.
                 </span>
               </h1>
             </motion.div>
